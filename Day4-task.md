@@ -16,7 +16,7 @@ ALTER INDEX [schema.]index REBUILD PARTITION partition  [PARAMETERS ('rebuild_pa
 
 ```
 
-## How To Convert Tabele to Partation ?
+## How To Convert Table to Partation ?
 
   >> partitioning is a technique used to divide large tables into smaller, more manageable pieces called partitions
 
